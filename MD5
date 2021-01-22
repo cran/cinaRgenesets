@@ -1,0 +1,16 @@
+8e8fe68ff8bbe0c7490fd7689640dc39 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+2118606ebd8f87f741031ac780f616fb *R/data.R
+6773c97eb3bdeff58d876b30148e44e7 *README.md
+58e22c7e3e257076def2c2464fcbf94b *build/partial.rdb
+7d08a6621a312ff54a6caf02d1ca076a *data/PBMC.scRNAseq.rda
+c7602e76faef1092b633bc3dced89df2 *data/VP2008.rda
+3cb0483fdbcfde1059944accdd8406e5 *data/dice.major.rda
+3cedb27a451ccfaf32f8b6c5a9d98f6e *data/wiki.inf.rda
+77ec8e66786e1fabcabdcdce49e97238 *data/wiki.rda
+f3585e0131438c3f55c217db28b68738 *man/PBMC.scRNAseq.Rd
+ffe0ac3498f4ecb37141376662f5e6b9 *man/dice.major.Rd
+8d00d210c276467cd2936dc555fd161b *man/figures/cinaR.png
+5bb1633d98d0e25ea6d681310f3230ed *man/vp2008.Rd
+98e0e3790af5a4548ff483f891590f06 *man/wiki.Rd
+597b04f6eec5141696d1a9499f8b7cbe *man/wiki.inf.Rd
